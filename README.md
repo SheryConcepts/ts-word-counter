@@ -1,0 +1,1 @@
+State of the art cli word counter, run, enter your paragraph and boom! magick.
